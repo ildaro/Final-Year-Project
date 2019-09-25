@@ -18,7 +18,7 @@ def convert_to_base(n,base):
 
 
 # asks user what file to convert
-file = input("Which file would you like to convert? e.g. evens.txt :")
+file = input("Which file would you like to convert? e.g. powers2.txt :")
 
 #file stats before conversion to other bases
 
